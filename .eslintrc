@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "@nuxtjs/eslint-config-typescript"
+  ],
+  "rules": {
+    "import/no-named-as-default-member": "off",
+    "vue/multi-word-component-names": "off",
+    "import/no-named-as-default": 0
+  }
+}
